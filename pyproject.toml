@@ -7,7 +7,7 @@ requires-python = ">=3.10"
 dependencies = [
     "adaptive-classifier>=0.0.10",
     "aiofiles>=24.1.0",
-    "anyio>=3.5.0,<5",
+    "anyio>=4.13.0,<5",
     "celery>=5.5.1",
     "certifi==2025.4.26",
     "chromedriver-autoinstaller>=0.6.4",
